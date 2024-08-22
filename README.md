@@ -12,7 +12,7 @@ Sutapa Ghosh, Nicholas Rivera, Gadi Eisenstein and Ido Kaminer
 
 # Please cite as:
 
-??
+Ghosh, S., Rivera, N., Eisenstein, G. et al. Creating heralded hyper-entangled photons using Rydberg atoms. Light Sci Appl 10, 100 (2021).
 
 # License
 
